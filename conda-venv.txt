@@ -1,0 +1,10 @@
+conda create --name ComputationalBiology python=3.7.6
+
+y
+
+
+conda activate ComputationalBiology
+
+cd ke dir Initialize.bat jalanin
+
+pip install ipykernel
